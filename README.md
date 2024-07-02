@@ -10,7 +10,7 @@
     
  🌱 I’m currently learning **Nextjs**
 
- 💬 Ask me about **React,TailwindCSS, Nodejs**
+ 💬 Ask me about **React, Nodejs, Firebase... or anythig**
 
  📫 How to reach me **sajidislam941@gmail.com**
 
