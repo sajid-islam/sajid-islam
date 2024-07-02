@@ -1,4 +1,4 @@
- <img src="https://i.postimg.cc/43xDTwcy/original-304e0ba801ed986729825893f0596d5d-1.jpg" />
+ <img src="https://i.postimg.cc/6pMv358c/https-dev-to-uploads-s3-amazonaws-com-uploads-articles-vctgguy9jig4h23gz481.webp" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajid+Islam!;" />
 </h1>
