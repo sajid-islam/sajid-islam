@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <style>
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 50px;
+      font-weight: bold;
+      fill: transparent;
+      stroke: #000;
+      stroke-width: 2;
+      animation: strokeAnimation 5s infinite alternate;
+    }
+
+    @keyframes strokeAnimation {
+      0% {
+        stroke-dasharray: 0, 300;
+        fill: transparent;
+      }
+      50% {
+        stroke-dasharray: 150, 300;
+      }
+      100% {
+        stroke-dasharray: 300, 300;
+        fill: #40c463;
+      }
+    }
+  </style>
+
+  <text x="50" y="100">Sajid</text>
+</svg>
