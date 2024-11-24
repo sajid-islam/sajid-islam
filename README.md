@@ -17,7 +17,7 @@
     
  🌱 I’m currently learning **Nextjs**
 
- 💬 Ask me about **React, Nodejs, Firebase... or anythig**
+ 💬 Ask me about **React, Nodejs, Firebase... or anything**
 
  📫 How to reach me **sajidislam.webdev@gmail.com**
 
