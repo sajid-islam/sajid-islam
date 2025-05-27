@@ -15,7 +15,7 @@
 
 <div align="center">
     
- 🌱 I’m currently learning **Nextjs**
+ 🌱 I’m currently learning **Typescript**
 
  💬 Ask me about **React, Nodejs, Firebase... or anything**
 
