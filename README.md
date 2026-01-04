@@ -19,12 +19,12 @@
 
  💬 Ask me about **React, Nodejs, Firebase... or anything**
 
- 📫 How to reach me **sajidislam.webdev@gmail.com**
+ 📫 How to reach me **sajidislam941@gmail.com**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:sajidislam.webdev@gmail.com">
+  <a href="mailto:sajidislam941@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/sajidislam1" target="_blank">
