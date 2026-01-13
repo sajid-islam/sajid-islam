@@ -14,12 +14,8 @@
 <br/>
 
 <div align="center">
-    
- 🌱 I’m currently learning **Typescript**
 
- 💬 Ask me about **React, Nodejs, Firebase... or anything**
-
- 📫 How to reach me **sajidislam941@gmail.com**
+ How to reach me **sajidislam941@gmail.com**
 
  </div>
  
