@@ -24,8 +24,7 @@ I am Sajid Islam, currently working on React.js , Next.js , Node.js and Mongodb 
 <table>
   <tr>
     <td align="center" width="65%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid-islam&theme=dark" height="160" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid-islam&theme=dark" height="160" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajid-islam&theme=dark" height="160" />       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajid-islam&theme=dark" height="160" />
       <br/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajid-islam&theme=dark" />
       <br/>
@@ -42,23 +41,3 @@ I am Sajid Islam, currently working on React.js , Next.js , Node.js and Mongodb 
     </td>
   </tr>
 </table>
-
-
-<br/><br/>
-
-<hr/>
-
-
-<br/>
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
