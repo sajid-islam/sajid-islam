@@ -8,9 +8,9 @@
 ## Hi there 👋
 I am Sajid Islam, currently working on React.js , Next.js , Node.js and Mongodb based projects. I love open source and I’m always open to collaborating on cool projects and innovative ideas. Leave me a message on [![Gmail Badge](https://img.shields.io/badge/-sajidislam941@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sajidislam941@gmail.com)](mailto:sajidislam941@gmail.com)
 
-<!-- <p align="center">
-  <img src="/working.gif" width="100%" />
-</p> -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sajid-islam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
  <br/>
 
